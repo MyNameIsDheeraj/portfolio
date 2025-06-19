@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "dheeraj-s",
+    "staging": "dheeraj-s"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
